@@ -24,3 +24,9 @@ I introduce my research on this page.
 ## DNS Open Resovers
 
 [![webtracking](/assets/open_dns_resolver_heatmap_201307.png "Visualization of DNS Open Resolvers")]({% post_url 2016-05-30-measurement-of-dns-open-resolvers %})
+
+## Surveys
+
+I posted some slides for research survey [here]({% post_url 2016-05-30-surveys %}).
+However, some slides are written in Japanese only.
+Sorry.
