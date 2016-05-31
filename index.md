@@ -19,8 +19,8 @@ I introduce my research on this page.
 
 ## Web Tracking
 
-[![webtracking](/assets/wide1309_top5.png "Visualization of Web Tracking")]({% post_url 2016-06-01-web-tracking.md %})
+[![webtracking](/assets/wide1309_top5.png "Visualization of Web Tracking")]({% post_url 2016-06-01-web-tracking %})
 
 ## DNS Open Resovers
 
-[![webtracking](/assets/open_dns_resolver_heatmap_201307.png "Visualization of DNS Open Resolvers")]({% post_url 2016-06-01-measurement-of-dns-open-resolvers.md %})
+[![webtracking](/assets/open_dns_resolver_heatmap_201307.png "Visualization of DNS Open Resolvers")]({% post_url 2016-06-01-measurement-of-dns-open-resolvers %})
