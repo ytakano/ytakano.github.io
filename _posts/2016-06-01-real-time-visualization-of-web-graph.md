@@ -2,8 +2,8 @@
 layout: post
 title: "Real-time Web Graph Visualization by Using SF-TAP"
 description: ""
-category: 
-tags: ["visualization", "web graph", "SF-TAP"]
+category: research
+tags: [visualization, SF-TAP]
 ---
 {% include JB/setup %}
 
