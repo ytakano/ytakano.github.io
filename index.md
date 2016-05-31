@@ -11,4 +11,4 @@ I introduce my research on this page.
 
 ## Real-time Web Graph Visualization by Using SF-TAP
 
-[chakra](/assets/chakra.png "CHAKRA: Big Data Visualization System")]
+![chakra](/assets/chakra.png "CHAKRA: Big Data Visualization System")
