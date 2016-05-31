@@ -38,6 +38,8 @@ and provide details of its evaluation.
 
 [![chakra](/assets/chakra.png "CHAKRA: Big Data Visualization System")](/assets/chakra.png)
 
+[![lisaposter](/assets/usenix_lisa2015_poster.png "SF-TAP Poster - USENIX LISA 2015")](/assets/usenix_lisa2015_poster.pdf)
+
 ## Slides
 
 <script async class="speakerdeck-embed" data-id="1cadedf3f63944c2b7da9101296cf029" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
