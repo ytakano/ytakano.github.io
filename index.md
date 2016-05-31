@@ -11,7 +11,7 @@ I introduce my research on this page.
 
 ## Real-time Web Graph Visualization by Using SF-TAP
 
-[![chakra](/assets/chakra.png "CHAKRA: Big Data Visualization System")]({% post_url 2016-05-30-measurement-of-dns-open-resolvers %})
+[![chakra](/assets/chakra.png "CHAKRA: Big Data Visualization System")]({% post_url 2016-05-30-real-time-web-graph-visualization  %})
 
 ## Network Emulation and Realtime Visualization Framework
 
