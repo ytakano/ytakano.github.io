@@ -51,7 +51,7 @@ by combining these results and BGP's routing information.
 
 ## Slide
 
-<script async class="speakerdeck-embed" data-id="0077d6fc2059446d9fbf8d7c1ae2e2e6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<!-- <script async class="speakerdeck-embed" data-id="0077d6fc2059446d9fbf8d7c1ae2e2e6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> -->
 
 ## Picture
 

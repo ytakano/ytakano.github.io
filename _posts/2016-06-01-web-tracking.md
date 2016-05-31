@@ -20,7 +20,11 @@ The result of analysis of user data we collected at the camp also revealed that 
 
 ## Slide
 
+<!--
+
 <script async class="speakerdeck-embed" data-id="b6d7f1ae65c24da1b14437476c3cf9c8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+-->
 
 ## Pictures
 

@@ -22,6 +22,8 @@ Application-level network traffic analysis and sophisticated analysis techniques
 
 ## Slides
 
+<!--
 <script async class="speakerdeck-embed" data-id="1cadedf3f63944c2b7da9101296cf029" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 <script async class="speakerdeck-embed" data-id="ddb3a8f1c88e44dc9894a598f2c411b3" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+-->
