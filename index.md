@@ -30,3 +30,7 @@ I introduce my research on this page.
 I posted some slides for research survey [here]({% post_url 2016-05-30-surveys %}).
 However, some slides are written in Japanese only.
 Sorry.
+
+## Publications (in English and Japanese)
+
+My publications are listed [here]({% post_url 2016-05-30-publications %}).
