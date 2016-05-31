@@ -11,16 +11,16 @@ I introduce my research on this page.
 
 ## Real-time Web Graph Visualization by Using SF-TAP
 
-![chakra](/assets/chakra.png "CHAKRA: Big Data Visualization System")
+[![chakra](/assets/chakra.png "CHAKRA: Big Data Visualization System")]({% post_url 2016-05-30-measurement-of-dns-open-resolvers %})
 
 ## Network Emulation and Realtime Visualization Framework
 
-![nervf](/assets/nervf.png "NERVF")
+[![nervf](/assets/nervf.png "NERVF")]({% post_url 2016-05-30-network-emulation-and-realtime-visualization-framework %})
 
 ## Web Tracking
 
-![webtracking](/assets/wide1309_top5.png "Visualization of Web Tracking")
+[![webtracking](/assets/wide1309_top5.png "Visualization of Web Tracking")]({% post_url 2016-05-30-web-tracking %})
 
 ## DNS Open Resovers
 
-![webtracking](/assets/open_dns_resolver_heatmap_201307.png "Visualization of DNS Open Resolvers")
+[![webtracking](/assets/open_dns_resolver_heatmap_201307.png "Visualization of DNS Open Resolvers")]({% post_url 2016-05-30-measurement-of-dns-open-resolvers %})
