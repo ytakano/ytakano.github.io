@@ -29,14 +29,10 @@ application-level analyzers.
 In this study, we discuss the design and implementation of SF-TAP
 and provide details of its evaluation.
 
----
-
 ## Links
 
 - [SF-TAP: SF-TAP: Scalable and Flexible Traffic Analysis Platform](http://sf-tap.github.io/)
 - [SF-TAP (github.com)](https://github.com/SF-TAP)
-
----
 
 ## Visualize Web Graph by Using SF-TAP
 
@@ -44,10 +40,10 @@ and provide details of its evaluation.
 
 [![lisaposter](/assets/usenix_lisa2015_poster.png "SF-TAP Poster - USENIX LISA 2015")](/assets/usenix_lisa2015_poster.pdf)
 
----
-
 ## Slides
 
 <script async class="speakerdeck-embed" data-id="1cadedf3f63944c2b7da9101296cf029" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 <script async class="speakerdeck-embed" data-id="ddb3a8f1c88e44dc9894a598f2c411b3" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+---

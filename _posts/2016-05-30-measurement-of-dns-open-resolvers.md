@@ -31,8 +31,6 @@ DNSSEC, and its countermeasures.
 DNSSEC significantly increases efficiency of the DNS amplification
 attack since its records typically amount to tens of thousand bytes.
 
----
-
 ## [The Ecology of DNS Open Resolvers (only in Japanese)](https://github.com/ytakano/ytakanospapers/tree/master/ieice_201410)
 
 DNS amplification attack is a DDoS attack by abusing DNS open resolvers as
@@ -51,14 +49,12 @@ and ANY record requests are often used to launch DDoS attack.
 Moreover, we reveal that source network of the attackers could be traced
 by combining these results and BGP's routing information.
 
----
-
 ## Slide
 
 <script async class="speakerdeck-embed" data-id="0077d6fc2059446d9fbf8d7c1ae2e2e6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
----
-
 ## Picture
 
 [![openresolver](/assets/open_dns_resolver_heatmap_201307.png "Visualization of DNS Open Resolvers")](/assets/open_dns_resolver_heatmap_201307.png)
+
+---

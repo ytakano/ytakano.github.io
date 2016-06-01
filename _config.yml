@@ -9,12 +9,12 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : TOP
-tagline: Site Tagline
+tagline: Beautiful Research
 author :
   name : Yuuki Takano
   github : ytakano
   twitter : ytakanoster
-  email: ytakanoster@gmail.com
+  email:
   feedburner : 
 
 # The production_url is only used when full-domain names are needed
