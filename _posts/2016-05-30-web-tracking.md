@@ -18,9 +18,13 @@ In order to demonstrate the effectiveness of our proof-of-concept implementation
 The experiment's results revealed that visualizing web tracking effectively influences users' perception of privacy.
 The result of analysis of user data we collected at the camp also revealed that MCODE clustering and some features derived by graph theory are useful for detecting advertising sites that potentially collect user information by web tracking for their own purposes.
 
+---
+
 ## Slide
 
 <script async class="speakerdeck-embed" data-id="b6d7f1ae65c24da1b14437476c3cf9c8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+---
 
 ## Pictures
 
