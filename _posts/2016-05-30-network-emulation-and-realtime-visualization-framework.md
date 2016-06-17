@@ -18,10 +18,10 @@ We proposed a network emulation framework equipping the real-time visualization 
 
 ## Pictures
 
-[![nervf01](/assets/nervf.png "NERVF 01")](/assets/nervf.png)
+[![nervf01](/assets/nervf.jpg "NERVF 01")](/assets/nervf.jpg)
 
-[![nervf02](/assets/nervf1.png "NERVF 02")](/assets/nervf1.png)
+[![nervf02](/assets/nervf1.jpg "NERVF 02")](/assets/nervf1.jpg)
 
-[![nervf03](/assets/nervf2.png "NERVF 03")](/assets/nervf2.png)
+[![nervf03](/assets/nervf2.jpg "NERVF 03")](/assets/nervf2.jpg)
 
 ---

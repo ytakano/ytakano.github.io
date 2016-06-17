@@ -15,7 +15,7 @@ I introduce my research on this page.
 
 ## Network Emulation and Realtime Visualization Framework
 
-[![nervf](/assets/nervf.png "NERVF")]({% post_url 2016-05-30-network-emulation-and-realtime-visualization-framework %})
+[![nervf](/assets/4K_NERVF.jpg "NERVF")]({% post_url 2016-05-30-network-emulation-and-realtime-visualization-framework %})
 
 ## Web Tracking
 
