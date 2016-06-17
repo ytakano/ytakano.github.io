@@ -31,7 +31,7 @@ I posted some slides for research survey [here]({% post_url 2016-05-30-surveys %
 However, some slides are written in Japanese only.
 Sorry.
 
-## Publications (in English and Japanese)
+## Publications
 
 My publications are listed [here]({% post_url 2016-05-30-publications %}).
 
