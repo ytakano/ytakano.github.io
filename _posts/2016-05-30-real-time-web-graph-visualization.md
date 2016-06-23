@@ -7,7 +7,7 @@ tags: ["visualization", "web graph", "SF-TAP"]
 ---
 {% include JB/setup %}
 
-## [SF-TAP: SF-TAP: Scalable and Flexible Traffic Analysis Platform Running on Commodity Hardware](https://www.usenix.org/conference/lisa15/conference-program/presentation/takano)
+## SF-TAP: SF-TAP: Scalable and Flexible Traffic Analysis Platform Running on Commodity Hardware
 
 Application-level network traffic analysis and sophisticated analysis techniques
  such as machine learning
@@ -31,8 +31,9 @@ and provide details of its evaluation.
 
 ## Links
 
-- [SF-TAP: SF-TAP: Scalable and Flexible Traffic Analysis Platform](http://sf-tap.github.io/)
-- [SF-TAP (github.com)](https://github.com/SF-TAP)
+- [SF-TAP: Scalable and Flexible Traffic Analysis Platform Running on Commodity Hardware (USENIX LISA 2015)](https://www.usenix.org/conference/lisa15/conference-program/presentation/takano)
+- [SF-TAP - http://sf-tap.github.io/](http://sf-tap.github.io/)
+- [SF-TAP - https://github.com/SF-TAP](https://github.com/SF-TAP)
 
 ## Visualize Web Graph by Using SF-TAP
 

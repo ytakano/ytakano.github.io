@@ -7,7 +7,7 @@ tags: ["DNS", "open resolver", "DDoS", "visualization"]
 ---
 {% include JB/setup %}
 
-## [A Measurement Study of Open Resolvers and DNS Server Version](https://github.com/ytakano/ytakanospapers/tree/master/ic_2013)
+## A Measurement Study of Open Resolvers and DNS Server Version
 
 DNS is one of the most important infrastructure of the Internet,
 but it unfortunately suffers from malicious attacks,
@@ -31,7 +31,7 @@ DNSSEC, and its countermeasures.
 DNSSEC significantly increases efficiency of the DNS amplification
 attack since its records typically amount to tens of thousand bytes.
 
-## [The Ecology of DNS Open Resolvers (only in Japanese)](https://github.com/ytakano/ytakanospapers/tree/master/ieice_201410)
+## The Ecology of DNS Open Resolvers
 
 DNS amplification attack is a DDoS attack by abusing DNS open resolvers as
 reflectors.
@@ -48,6 +48,11 @@ we found that A record requests are often used by probing DNS servers,
 and ANY record requests are often used to launch DDoS attack.
 Moreover, we reveal that source network of the attackers could be traced
 by combining these results and BGP's routing information.
+
+## Links
+
+- [A Measurement Study of Open Resolvers and DNS Server Version](https://github.com/ytakano/ytakanospapers/tree/master/ic_2013)
+- [The Ecology of DNS Open Resolvers (only in Japanese)](https://github.com/ytakano/ytakanospapers/tree/master/ieice_201410)
 
 ## Slide
 
