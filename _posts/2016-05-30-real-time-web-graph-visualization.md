@@ -7,7 +7,7 @@ tags: ["visualization", "web graph", "SF-TAP"]
 ---
 {% include JB/setup %}
 
-## SF-TAP: SF-TAP: Scalable and Flexible Traffic Analysis Platform Running on Commodity Hardware
+## SF-TAP: Scalable and Flexible Traffic Analysis Platform Running on Commodity Hardware
 
 Application-level network traffic analysis and sophisticated analysis techniques
  such as machine learning
