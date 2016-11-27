@@ -51,8 +51,8 @@ by combining these results and BGP's routing information.
 
 ## Links
 
+- [The Ecology of DNS Open Resolvers](https://github.com/ytakano/ytakanospapers/tree/master/ieice_201410_en)
 - [A Measurement Study of Open Resolvers and DNS Server Version](https://github.com/ytakano/ytakanospapers/tree/master/ic_2013)
-- [The Ecology of DNS Open Resolvers (only in Japanese)](https://github.com/ytakano/ytakanospapers/tree/master/ieice_201410)
 
 ## Slide
 
