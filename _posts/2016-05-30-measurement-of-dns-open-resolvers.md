@@ -7,6 +7,24 @@ tags: ["DNS", "open resolver", "DDoS", "visualization"]
 ---
 {% include JB/setup %}
 
+## The Ecology of DNS Open Resolvers
+
+DNS amplification attack is a DDoS attack by abusing DNS open resolvers as
+reflectors.
+Because the attack can amplify attacker's traffic dozens of times by reflectors,
+attackers can efficiently launch DDoS attack even though they have only
+low bandwidth network.
+Therefore, in this paper, we investigated DNS open resolvers abused by
+DNS amplification attack from 3 aspects of wide active probing,
+silent monitoring and deploying open resolvers.
+As a result of our active probing, we found about 30 millions of DNS
+servers on the Internet, and 25 millions of them are open resolvers.
+Then, by silent monitoring and deploying open resolvers,
+we found that A record requests are often used by probing DNS servers,
+and ANY record requests are often used to launch DDoS attack.
+Moreover, we reveal that source network of the attackers could be traced
+by combining these results and BGP's routing information.
+
 ## A Measurement Study of Open Resolvers and DNS Server Version
 
 DNS is one of the most important infrastructure of the Internet,
@@ -30,24 +48,6 @@ a type of DDoS attack that abuses open resolvers,
 DNSSEC, and its countermeasures.
 DNSSEC significantly increases efficiency of the DNS amplification
 attack since its records typically amount to tens of thousand bytes.
-
-## The Ecology of DNS Open Resolvers
-
-DNS amplification attack is a DDoS attack by abusing DNS open resolvers as
-reflectors.
-Because the attack can amplify attacker's traffic dozens of times by reflectors,
-attackers can efficiently launch DDoS attack even though they have only
-low bandwidth network.
-Therefore, in this paper, we investigated DNS open resolvers abused by
-DNS amplification attack from 3 aspects of wide active probing,
-silent monitoring and deploying open resolvers.
-As a result of our active probing, we found about 30 millions of DNS
-servers on the Internet, and 25 millions of them are open resolvers.
-Then, by silent monitoring and deploying open resolvers,
-we found that A record requests are often used by probing DNS servers,
-and ANY record requests are often used to launch DDoS attack.
-Moreover, we reveal that source network of the attackers could be traced
-by combining these results and BGP's routing information.
 
 ## Links
 
