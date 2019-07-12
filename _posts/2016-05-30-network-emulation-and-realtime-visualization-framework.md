@@ -5,7 +5,6 @@ description: ""
 category: ["Internet", "wireless", "emulation"]
 tags: ["visualization", "DynamiQ"]
 ---
-{% include JB/setup %}
 
 ## About
 
@@ -18,12 +17,12 @@ We proposed a network emulation framework equipping the real-time visualization 
 
 ## Pictures
 
-[![nervf01](/assets/nervf.jpg "NERVF 01")](/assets/nervf.jpg)
+[![nervf01](/assets/nervf.jpg "NERVF 01"){:width="100%"}](/assets/nervf.jpg)
 
-[![nervf02](/assets/nervf1.jpg "NERVF 02")](/assets/nervf1.jpg)
+[![nervf02](/assets/nervf1.jpg "NERVF 02"){:width="100%"}](/assets/nervf1.jpg)
 
-[![nervf03](/assets/nervf2.jpg "NERVF 03")](/assets/nervf2.jpg)
+[![nervf03](/assets/nervf2.jpg "NERVF 03"){:width="100%"}](/assets/nervf2.jpg)
 
-[![nervf04](/assets/4K_NERVF.jpg "NERVF 04")](/assets/4K_NERVF.jpg)
+[![nervf04](/assets/4K_NERVF.jpg "NERVF 04"){:width="100%"}](/assets/4K_NERVF.jpg)
 
 ---

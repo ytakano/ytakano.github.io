@@ -5,7 +5,6 @@ description: ""
 category: ["research", "visualization", "web"]
 tags: ["visualization", "web tracking"]
 ---
-{% include JB/setup %}
 
 ## MindYourPrivacy: Design and implementation of a visualization system for third-party Web tracking
 
@@ -28,12 +27,12 @@ The result of analysis of user data we collected at the camp also revealed that 
 
 ## Pictures
 
-[![webtracking](/assets/wide1309.png "Visualization of Web Tracking")](/assets/wide1309.png)
+[![webtracking](/assets/wide1309.png "Visualization of Web Tracking"){:width="100%"}](/assets/wide1309.png)
 
-[![webtracking](/assets/wide1309_top5.png "Visualization of Web Tracking")](/assets/wide1309_top5.png)
+[![webtracking](/assets/wide1309_top5.png "Visualization of Web Tracking"){:width="100%"}](/assets/wide1309_top5.png)
 
-[![webtracking](/assets/wide1309_mcode.png "Visualization of Web Tracking")](/assets/wide1309_mcode.png)
+[![webtracking](/assets/wide1309_mcode.png "Visualization of Web Tracking"){:width="100%"}](/assets/wide1309_mcode.png)
 
-[![webtracking](/assets/wide1309_all.png "Visualization of Web Tracking")](/assets/wide1309_all.png)
+[![webtracking](/assets/wide1309_all.png "Visualization of Web Tracking"){:width="100%"}](/assets/wide1309_all.png)
 
 ---

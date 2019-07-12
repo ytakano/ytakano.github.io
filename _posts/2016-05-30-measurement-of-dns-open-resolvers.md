@@ -5,7 +5,6 @@ description: ""
 category: ["Internet", "research", "DNS", "visualization"]
 tags: ["DNS", "open resolver", "DDoS", "visualization"]
 ---
-{% include JB/setup %}
 
 ## The Ecology of DNS Open Resolvers
 
@@ -60,6 +59,6 @@ attack since its records typically amount to tens of thousand bytes.
 
 ## Picture
 
-[![openresolver](/assets/open_dns_resolver_heatmap_201307.png "Visualization of DNS Open Resolvers")](/assets/open_dns_resolver_heatmap_201307.png)
+[![openresolver](/assets/open_dns_resolver_heatmap_201307.png "Visualization of DNS Open Resolvers"){:width="100%"}](/assets/open_dns_resolver_heatmap_201307.png)
 
 ---

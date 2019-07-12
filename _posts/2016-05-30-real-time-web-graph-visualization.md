@@ -5,7 +5,6 @@ description: ""
 category: ["visualization", "traffic analysis"]
 tags: ["visualization", "web graph", "SF-TAP"]
 ---
-{% include JB/setup %}
 
 ## SF-TAP: Scalable and Flexible Traffic Analysis Platform Running on Commodity Hardware
 
@@ -39,9 +38,9 @@ and provide details of its evaluation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G9xbGHxVxXc" frameborder="0" allowfullscreen></iframe>
 
-[![chakra](/assets/chakra.png "CHAKRA: Big Data Visualization System")](/assets/chakra.png)
+[![chakra](/assets/chakra.png "CHAKRA: Big Data Visualization System"){:width="100%"}](/assets/chakra.png)
 
-[![lisaposter](/assets/usenix_lisa2015_poster.png "SF-TAP Poster - USENIX LISA 2015")](/assets/usenix_lisa2015_poster.pdf)
+[![lisaposter](/assets/usenix_lisa2015_poster.png "SF-TAP Poster - USENIX LISA 2015"){:width="100%"}](/assets/usenix_lisa2015_poster.pdf)
 
 ## Slides
 
