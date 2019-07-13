@@ -32,6 +32,6 @@ Sorry.
 
 ## Publications
 
-My publications are listed [here]({% post_url 2016-05-30-publications %}).
+My publications are listed [here](publications.html).
 
 ---

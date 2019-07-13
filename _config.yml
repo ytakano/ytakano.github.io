@@ -28,6 +28,10 @@ github_username: ytakano
 markdown: kramdown
 theme: jekyll-theme-console
 style: light
+header_pages:
+  - index.md
+  - publications.md
+footer: 'follow me on <a href="https://twitter.com/ytakanoster">twitter</a>'
 plugins:
   - jekyll-feed
 
