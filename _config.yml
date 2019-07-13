@@ -26,7 +26,7 @@ github_username: ytakano
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-console
+#theme: jekyll-theme-console
 style: light
 header_pages:
   - index.md
