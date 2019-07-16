@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Publications"
+title: "[Publications]"
 description: ""
 category: [research]
 tags: ["publications"]
