@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Measurement of DNS Open Resolvers"
+title: "[Measurement of DNS Open Resolvers]"
 description: ""
 category: ["Internet", "research", "DNS", "visualization"]
 tags: ["DNS", "open resolver", "DDoS", "visualization"]

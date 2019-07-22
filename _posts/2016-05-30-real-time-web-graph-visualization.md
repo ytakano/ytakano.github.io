@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Real-time Web Graph Visualization by Using SF-TAP"
+title: "[Real-time Web Graph Visualization by Using SF-TAP]"
 description: ""
 category: ["visualization", "traffic analysis"]
 tags: ["visualization", "web graph", "SF-TAP"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Tracking"
+title: "[Web Tracking]"
 description: ""
 category: ["research", "visualization", "web"]
 tags: ["visualization", "web tracking"]

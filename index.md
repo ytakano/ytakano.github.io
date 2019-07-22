@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "[Yuuki Takano's Homepage]"
+title: "[TOP]"
 tagline: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NERVF: Network Emulation and Realtime Visualization Framework"
+title: "[NERVF: Network Emulation and Realtime Visualization Framework]"
 description: ""
 category: ["Internet", "wireless", "emulation"]
 tags: ["visualization", "DynamiQ"]
